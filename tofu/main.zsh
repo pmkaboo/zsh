@@ -4,7 +4,9 @@ alias ti="tofu init"
 alias tiu="tofu init -upgrade"
 
 alias tp="tofu plan"
+alias tpv=tofu_plan_with_vars
 alias tpo=tofu_plan_out
+alias tpov=tofu_plan_out_with_vars
 
 alias ta="tofu apply -auto-approve"
 alias tav=tofu_apply_with_vars
