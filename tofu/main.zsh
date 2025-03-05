@@ -14,3 +14,6 @@ alias tap=tofu_apply_plan
 alias tapv=tofu_apply_plan_with_vars
 
 alias tt="tofu taint"
+
+alias td="tofu destroy"
+alias tdv=tofu_destroy_with_vars
